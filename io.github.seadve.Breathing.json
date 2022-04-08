@@ -87,10 +87,10 @@
       "buildsystem": "meson",
       "sources": [
         {
-          "tag": "v0.1.1",
+          "tag": "v0.1.2",
           "type": "archive",
-          "url": "https://github.com/SeaDve/Breathing/archive/v0.1.1.tar.gz",
-          "sha256": "dd2f7aec91a7fcb7d07fa052824694b79bcef7dbf7d0eccd23e83ce5ea98d800"
+          "url": "https://github.com/SeaDve/Breathing/archive/v0.1.2.tar.gz",
+          "sha256": "fcadd033cf31073a2a708e23f2e7753ce49c2d994a273a966bcf50fed6eb2374"
         }
       ]
     }
